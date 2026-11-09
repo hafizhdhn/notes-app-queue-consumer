@@ -1,0 +1,19 @@
+{
+  "name": "notes-app-queue-consumer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^2.3.1",
+    "dotenv": "^18.0.10",
+    "nodemailer": "^10.4.0",
+    "pg": "^8.23.1"
+  }
+}
